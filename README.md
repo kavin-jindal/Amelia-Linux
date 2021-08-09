@@ -45,4 +45,16 @@ A multi utility chatbot for Linux made in Python
 * The required dependencies will install in some time and will launch the program
 * If the program doesnt launch, then run `python3 main.py`
 
-# 
+# Contact
+
+> You can contact the developer using the email or the discord ID.
+
+* Email: `kavinsjindal@gmail.com`
+* Discord ID: `KJ#7320`
+
+# Report Issues or suggestions
+
+* You can provide your suggestions, ask queries or report issues here: 
+* [Repo Issues](https://github.com/Amelia-Bot/Amelia-Linux/issues)
+
+# Made with :heart: by Kavin Jindal
