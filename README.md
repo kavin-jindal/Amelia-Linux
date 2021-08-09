@@ -1,4 +1,3 @@
- ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Amelia-Bot/Amelia-Linux?style=for-the-badge)
 
 # Amelia-Linux
 A multi utility chatbot for Linux made in Python
@@ -7,8 +6,9 @@ A multi utility chatbot for Linux made in Python
 
 > PGamerX: The developer of RSAP API used in this chatbot
 
-# Updates:
+# Release:
 
+[Release 1.0.0](https://github.com/Amelia-Bot/Amelia-Linux/releases/tag/v1.0.0)
 
 # Features:
 
@@ -28,6 +28,9 @@ A multi utility chatbot for Linux made in Python
 
 ![snap2](https://user-images.githubusercontent.com/68228966/128662566-41c3425f-0acc-4517-b1cb-d3913f92ab33.JPG)
 
+# Info:
+* Open Source: Yes
+* OS Compatibility: Debian based OS (Not tested on other distros like CentOS, Fedora or Ubuntu)
 
 # Python Compatibility
 
