@@ -6,9 +6,8 @@ A multi utility chatbot for Linux made in Python
 
 > PGamerX: The developer of RSAP API used in this chatbot
 
-# Release:
 
-[Release 1.0.0](https://github.com/Amelia-Bot/Amelia-Linux/releases/tag/v1.0.0)
+# [Release 1.0.0](https://github.com/Amelia-Bot/Amelia-Linux/releases/tag/v1.0.0)
 
 # Features:
 
