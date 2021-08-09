@@ -29,3 +29,20 @@ A multi utility chatbot for Linux made in Python
 ![snap2](https://user-images.githubusercontent.com/68228966/128662566-41c3425f-0acc-4517-b1cb-d3913f92ab33.JPG)
 
 
+# Python Compatibility
+
+> Compatible with Python3
+
+# Modules Used:
+
+* [Platform](https://docs.python.org/3/library/platform.html)
+* [RSAP](https://pypi.org/project/rsap/)
+* [Colorama](https://pypi.org/project/colorama/)
+* [Pyfiglet](https://pypi.org/project/pyfiglet/0.7/)
+# Usage:
+
+* Run the setup.py file using `python3 setup.py`
+* The required dependencies will install in some time and will launch the program
+* If the program doesnt launch, then run `python3 main.py`
+
+# 
