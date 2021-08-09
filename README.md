@@ -60,4 +60,5 @@ A multi utility chatbot for Linux made in Python
 * You can provide your suggestions, ask queries or report issues here: 
 * [Repo Issues](https://github.com/Amelia-Bot/Amelia-Linux/issues)
 
+# Open to contributions 😙
 # Made with :heart: by Kavin Jindal
