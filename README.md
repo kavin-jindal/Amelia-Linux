@@ -2,6 +2,10 @@
 # Amelia-Linux
 A multi utility chatbot for Linux made in Python
 
+# Note:
+
+* The features in the apps' Windows release and Linux Release may differ due to compatibility issues
+
 # Credits:
 
 > PGamerX: The developer of RSAP API used in this chatbot
@@ -53,6 +57,8 @@ A multi utility chatbot for Linux made in Python
 
 * Email: `kavinsjindal@gmail.com`
 * Discord ID: `KJ#7320`
+
+# Check out the [Windows Version of the app](https://github.com/Amelia-Bot/Amelia-Windows)
 
 # Report Issues or suggestions
 
